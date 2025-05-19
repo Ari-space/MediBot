@@ -1,0 +1,7 @@
+langchain 
+langchain-google-genai
+sentace-transformer
+poppler-utils
+DirectoryLoader
+unstructured -q
+unstructured[local-interface] -q
